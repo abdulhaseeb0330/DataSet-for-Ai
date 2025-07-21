@@ -27,4 +27,5 @@ Developed by:Abdulhaseeb 🥇
 Supervised by: Prof. Zahid Ahmad
 
 #AIHealth #JavaProjects #SSMS #SQLDatabase #MedicalAI #HybridHealth #DiseaseDiagnosis #DataScience #HealthTech #ConsoleApplication #OOPinJava #SemesterProject
-#AndulHaseeb<img width="4961" height="7016" alt="Dataser fro Ai by abdulhaseeb0330" src="https://github.com/user-attachments/assets/e2f02d2a-35c8-4b41-a725-bd6ff5bc04ff" />
+#AbdulHaseeb
+<img width="4961" height="7016" alt="dataset for ai abdulhaseeb0330" src="https://github.com/user-attachments/assets/e958fcdd-ca23-47e9-bbfc-fe9d7562f090" />
