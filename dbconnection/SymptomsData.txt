@@ -1,0 +1,5 @@
+ali#fever#calpol
+ali#3#3
+ali#fever#panadol
+own#cough#pulmonol
+ali#fever#panadiol
