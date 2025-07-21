@@ -1,5 +1,5 @@
 # DataSet-for-Ai
-A console Based C++ Application for inserting data in to DataBase for Ai-Based Disease Diagnosis with Advanced Powered Hybrid base Health intelligence
+A console Based java Application for inserting data in to DataBase for Ai-Based Disease Diagnosis with Advanced Powered Hybrid base Health intelligence
 📊 Dataset Builder for AI-Based Disease Diagnosis
 💻 Console-Based Java Application + SQL Database
 🎯 Project Title: AI-Powered Disease Diagnosis with Hybrid Health Intelligence
